@@ -1,0 +1,10 @@
+C:\Users\abdpo\Desktop\Mediaregister-master\Mediaregister-master\Mediaregister\bin\Debug\Mediaregister.exe.config
+C:\Users\abdpo\Desktop\Mediaregister-master\Mediaregister-master\Mediaregister\bin\Debug\Mediaregister.exe
+C:\Users\abdpo\Desktop\Mediaregister-master\Mediaregister-master\Mediaregister\bin\Debug\Mediaregister.pdb
+C:\Users\abdpo\Desktop\Mediaregister-master\Mediaregister-master\Mediaregister\obj\Debug\Mediaregister.csprojAssemblyReference.cache
+C:\Users\abdpo\Desktop\Mediaregister-master\Mediaregister-master\Mediaregister\obj\Debug\Mediaregister.Form1.resources
+C:\Users\abdpo\Desktop\Mediaregister-master\Mediaregister-master\Mediaregister\obj\Debug\Mediaregister.Properties.Resources.resources
+C:\Users\abdpo\Desktop\Mediaregister-master\Mediaregister-master\Mediaregister\obj\Debug\Mediaregister.csproj.GenerateResource.cache
+C:\Users\abdpo\Desktop\Mediaregister-master\Mediaregister-master\Mediaregister\obj\Debug\Mediaregister.csproj.CoreCompileInputs.cache
+C:\Users\abdpo\Desktop\Mediaregister-master\Mediaregister-master\Mediaregister\obj\Debug\Mediaregister.exe
+C:\Users\abdpo\Desktop\Mediaregister-master\Mediaregister-master\Mediaregister\obj\Debug\Mediaregister.pdb
